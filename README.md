@@ -1,5 +1,12 @@
-![expressCart](https://raw.githubusercontent.com/mrvautin/expressCart/master/public/images/logo.png)
+# Fondue Cart Playground
 
-Check out the documentation [here](https://github.com/mrvautin/expressCart/wiki).
+## How to run the project
+Have Docker installed in your machine, then run the following comments:
+```bash
+$ docker-compose up -d
+$ npm install
+$ npm run testdata
+$ npm run dev
+```
 
-View the demo shop [here](https://expresscart-demo.markmoffat.com/).
+The project is now running and should be accessible via https://localhost:1111
